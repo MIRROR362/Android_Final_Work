@@ -1,0 +1,2 @@
+rootProject.name='tiktok_player'
+include ':app'
